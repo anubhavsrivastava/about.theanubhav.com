@@ -14,7 +14,7 @@ defaults:
           type: 'posts'
       values:
           layout: 'post'
-
+email: 'anubhav.srivastava00@gmail.com'
 projects:
     sort_by: stars
     # sort_by options:
